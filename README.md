@@ -1,2 +1,2 @@
 # Delta-demo
-My first github class
+My first github class.
